@@ -1,0 +1,22 @@
+.details_container {
+    background-color: rgb(190, 187, 227);
+    padding: 20px;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+.image {
+    width: 80px;
+    height: 80px;
+    border-radius: 120px;
+    border: 2px solid black; 
+}
+.project_container {
+    display: flex;
+}
+.heading {
+    font-size: 16px;
+}
+.project1_container {
+    width: 160px;
+}

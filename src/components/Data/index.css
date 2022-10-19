@@ -1,0 +1,10 @@
+.cards-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 32px;
+    max-width: 1400px;
+
+  }

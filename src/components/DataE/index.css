@@ -1,0 +1,68 @@
+/* 
+
+
+
+
+
+
+import './index.css'
+
+const EmployeeCard = props => {
+    console.log(props)
+    const {cardDetails} = props
+    const {id,Name,Role,image_url} = cardDetails
+
+
+    return (
+        // <Link className="Employee_item_link" to={`/DataE/${id}`}>
+        <li className='card-item'>
+        <img src={image_url} alt="images" className="image"/>
+        <div className="disc">
+        <h1 className="heading">{Name}</h1>
+        <h1 className="discription">{Role}</h1>
+        </div>
+        </li>
+        // </Link>
+
+    )
+}
+
+export default EmployeeCard
+
+
+.card-item{
+    display: flex;
+   background-color: bisque;
+   margin: 20px;
+   padding: 20px;
+   list-style-type: none; 
+   height: 150px;
+   width: 270px;
+   border-radius: 10px;
+   border-top: 5px solid #44c4a1;
+}
+
+.image {
+    width: 80px;
+    height: 80px;
+    border-radius: 120px;
+    border: 2px solid black; 
+}
+.heading {
+    color: #171f46;
+    font-family: 'Roboto';
+    font-size: 18px;
+    font-weight: 500;
+}
+.discription {
+    color: #64748b;
+    font-family: 'Roboto';
+    font-size: 14px;
+    margin-left: 50%;
+}
+.disc {
+    display: flex;
+    flex-direction: column;
+
+
+} */

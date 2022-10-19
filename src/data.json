@@ -1,0 +1,94 @@
+[
+  {
+    "id" : "1",
+    "Name": "Nikhil",
+    "Role": "Sr. Developer",
+    "Experience": "4 Years",
+    "Skills": "React,Node & P9",
+    "Employment": "Full Time",
+    "Offshore": "True",
+    "Projects": [
+      {
+        "Name": "Transmart",
+        "Current_Sprint": "",
+        "Next_Release": "20/10/2022",
+        "Role": "Developer",
+        "Skills": "React,P9",
+        "Allocation":"30%"
+      }
+    ]
+  },
+  {
+    "id" : "2",
+    "Name": "Raushan",
+    "Role": "Sr. Developer",
+    "Experience": "4 Years",
+    "Skills": "React,Node & P9",
+    "Employment": "Full Time",
+    "Offshore": "True",
+    "Projects": [
+      {
+        "Name": "IAVR Enterprise",
+        "Current_Sprint": "",
+        "Next_Release": "20/10/2022",
+        "Role": "Developer",
+        "Skills": "React,P9",
+        "Allocation": "30%"
+      },
+      {
+        "Name": "PCA",
+        "Current_Sprint": "",
+        "Next_Release": "20/10/2022",
+        "Role": "Developer",
+        "Skills": "React,P9",
+        "Allocation": "30%"
+      }
+    ]
+  },
+  {
+    "id" : "3",
+    "Name": "Sirisha",
+    "Role": "QA",
+    "Experience": "1 Year",
+    "Skills": "Manual,TOSCA",
+    "Employment": "Full Time",
+    "Offshore": "True",
+    "Projects": [
+      {
+        "Name": "IAVR Enterprise",
+        "Current_Sprint": "",
+        "Next_Release": "20/10/2022",
+        "Role": "QA",
+        "Skills": "React,P9",
+        "Allocation": "30%"
+      }
+    ]
+  },
+  {
+    "id" : "4",
+    "Name": "Garima",
+    "Role": "Scrum Master",
+    "Experience": "1 Year",
+    "Skills": "",
+    "Employment": "Full Time",
+    "Offshore": "False",
+    "Projects": [
+      {
+        "Name": "IAVR Enterprise",
+        "Current_Sprint": "",
+        "Next_Release": "20/10/2022",
+        "Role": "Scrum Master",
+        "Skills": "",
+        "Allocation": "30%"
+      },
+      {
+        "Name": "PAC",
+        "Current_Sprint": "",
+        "Next_Release": "20/10/2022",
+        "Role": "Scrum Master",
+        "Skills": "",
+        "Allocation": "30%"
+      }
+    ]
+  }
+]

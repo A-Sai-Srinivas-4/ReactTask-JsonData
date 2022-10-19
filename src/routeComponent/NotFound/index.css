@@ -1,0 +1,8 @@
+.bg_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .NotFound_image {
+    width: 450px;
+  }
