@@ -1,0 +1,17 @@
+.project-details-card{
+    min-height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card{
+    padding:30px;
+}
+.heading-text{
+    font-size: 30px;
+    color:skyblue;
+}
+.text{
+    font-size: 20px;
+    color:skyblue;
+}
